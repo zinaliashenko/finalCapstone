@@ -1,4 +1,4 @@
-##Products Review Analysis using spaCy and SpacyTextBlob
+### Products Review Analysis using spaCy and SpacyTextBlob
 
 **Description:**
 This Python code analyzes product reviews using spaCy and SpacyTextBlob, providing insights into sentiment and similarity between reviews.
@@ -24,10 +24,10 @@ The code focuses on analyzing sentiment and similarity in product reviews. It re
 
 **Examples:**
 Copy code
-# Process a single review
+#### Process a single review
 process_review(clean_data, 'reviews.text', 125)
 
-# Compare two reviews
+#### Compare two reviews
 process_review(clean_data, 'reviews.text', 200, 1500)
 
 **Authors:**
