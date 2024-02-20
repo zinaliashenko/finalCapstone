@@ -23,7 +23,6 @@ To run this code locally, follow these steps:
 The code focuses on analyzing sentiment and similarity in product reviews. It reads data from a CSV file ('amazon_product_reviews.csv') and processes reviews using spaCy and SpacyTextBlob.
 
 **Examples:**
-Copy code
 #### Process a single review
 process_review(clean_data, 'reviews.text', 125)
 
