@@ -15,9 +15,11 @@ In the modern era of e-commerce, understanding customer sentiment is crucial for
 **Installation:**
 To run this code locally, follow these steps:
 1. Install required dependencies: pandas, spacy, spacytextblob.
-
+   
   pip install pandas spacy spacytextblob
+  
   python -m spacy download en_core_web_md
+  
 3. Clone the repository and execute the code.
     
 **Usage:**
