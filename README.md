@@ -20,7 +20,7 @@ To run this code locally, follow these steps:
   
   python -m spacy download en_core_web_md
   
-3. Clone the repository and execute the code.
+2. Clone the repository and execute the code.
     
 **Usage:**
 The code focuses on analyzing sentiment and similarity in product reviews. It reads data from a CSV file ('amazon_product_reviews.csv') and processes reviews using spaCy and SpacyTextBlob.
